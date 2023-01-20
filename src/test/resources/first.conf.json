@@ -1,0 +1,18 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "marynakrasiuk_byFA1r",
+  "access_key": "48qgNnf7ns4ZqG9R4pDS",
+
+  "capabilities": {
+    "project": "First Junit5 iOS Project",
+    "build": "browserstack-build-1",
+    "name": "first_test",
+    "browserstack.debug": true,
+    "app": "bs://444bd0308813ae0dc236f8cd461c02d3afa7901d"
+  },
+
+  "environments": [{
+    "device": "iPhone 12",
+    "os_version":  "14"
+  }]
+}
